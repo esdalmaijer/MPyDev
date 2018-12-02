@@ -34,7 +34,7 @@ FAQ
 *Are you sure you're using the right version of mpdev.dll for your BIOPAC device?*
 
 **IT STILL DOESNT WORK!!**
-*Are you running Acquisition in the background? Please close down that software before running a script that uses MPyDev.*
+*Are you running Ackknowledge in the background? Please close down that software before running a script that uses MPyDev.*
 
 **I don't have mpdev.dll, can you give it to me?**
 *Unfortunately not. Please ask BIOPAC Systems for the file. It's proprietary software, and part of their SDK. You'll need to buy it from them directly.*
