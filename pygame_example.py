@@ -51,7 +51,7 @@ while not quited:
     if not DUMMY:
         sample = mp.sample()
     else:
-        sample = 'dummymode'
+        sample = 16 * [0.0]
 
     # Render text.
     textsurf = font.render("sample = %.3f, %.3f, %.3f" % (sample[0], sample[1], sample[2]), False, (255,255,255))
